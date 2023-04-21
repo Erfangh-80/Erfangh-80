@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfangh-80&label=Profile%20views&color=0e75b6&style=flat" alt="erfangh-80" /> </p>
 
-- 💬 Ask me about **react, next.js**
-
-- 📫 How to reach me **Erfangh4871gholami@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erfangholami" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="erfangholami" height="30" width="40" /></a>
