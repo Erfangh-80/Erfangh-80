@@ -1,5 +1,6 @@
 
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Erfan Gholami</h1>
+<h3 align="left">A passionate frontend developer from Iran</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfangh-80&label=Profile%20views&color=0e75b6&style=flat" alt="erfangh-80" /> </p>
@@ -10,9 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erfangholami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfangholami" height="30" width="40" /></a>
-<a href="https://instagram.com/erfangh_80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erfangh_80" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erfangholami" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="erfangholami" height="30" width="40" /></a>
+<a href="https://instagram.com/erfangh_80" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" alt="erfangh_80" height="30" width="40" /></a>
 </p>
+
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -36,6 +39,7 @@
 </div>
 <br />
 
+#
 
 ### 📊 Stats
 
