@@ -1,5 +1,4 @@
-[![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]()
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Erfan Gholami</h1>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Erfan Gholami" title="👋 Hi there! I'm Erfan"/>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
