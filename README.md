@@ -35,3 +35,11 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 <br />
+
+
+### 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfangh-80&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
